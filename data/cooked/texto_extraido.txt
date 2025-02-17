@@ -1,0 +1,1827 @@
+Leyes del Ajedrez 
+ 
+Página 1 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+LEYES DEL AJEDREZ DE LA FIDE 
+Las Leyes del Ajedrez de la FIDE cubren el juego sobre el tablero. 
+Las Leyes del Ajedrez se componen de dos partes: 1. Reglas básicas de juego y 2. Reglas de 
+competición.  
+El texto en inglés es la versión auténtica de las Leyes del Ajedrez que se adoptaron en el 87º 
+Congreso de la FIDE celebrado en Bakú (Azerbaiyán) y el Consejo Presidencial de la FIDE 
+2017 en Atenas, entrando en vigor el 1 de julio de 2017. 
+En estas Leyes, las palabras “él”, “al” (a él), “su” (de él) y “suyo” incluyen a “ella”, “a ella”, “su” 
+(de ella) y “suya”. En todos los casos “jugador” y “adversario” incluyen a “jugadora” y 
+“adversaria”. 
+PRÓLOGO 
+Las Leyes del Ajedrez no pueden abarcar todas las situaciones posibles que pueden surgir durante 
+una partida, así como tampoco pueden regular todas las cuestiones administrativas. En los casos 
+no regulados con precisión por un artículo de las Leyes, debería ser posible llegar a una decisión 
+correcta estudiando situaciones análogas examinadas en las mismas.  
+Las Leyes presuponen que los árbitros tienen la competencia, recto juicio y absoluta objetividad 
+necesarios para ello. Una reglamentación excesivamente detallada podría privar al árbitro de su 
+libertad de criterio e impedirle hallar la solución a un problema, guiada por la ecuanimidad, la 
+lógica y la consideración de factores especiales. La FIDE apela a todos los jugadores de ajedrez 
+y federaciones para que acepten este criterio. 
+Una condición necesaria para que una partida sea valorada por la FIDE es que se debe jugar de 
+acuerdo con las Leyes del Ajedrez de la FIDE.  
+Se recomienda que las partidas no valoradas por la FIDE se jueguen de acuerdo con las Leyes del 
+Ajedrez de la FIDE.  
+Las federaciones afiliadas pueden solicitar a la FIDE que se pronuncie sobre las cuestiones 
+relativas a las Leyes del Ajedrez. 
+REGLAS DE JUEGO 
+Artículo 1: 
+Naturaleza y objetivos de la partida de ajedrez 
+1.1 
+La partida de ajedrez se juega entre dos adversarios que mueven alternativamente sus 
+propias piezas sobre un tablero cuadrado, llamado “tablero de ajedrez”.  
+1.2 
+El jugador con las piezas claras (el Blanco) realiza el primer movimiento, y posteriormente 
+los jugadores mueven alternativamente, con lo que el jugador con las piezas oscuras (el 
+Negro) realiza el siguiente movimiento.  
+
+Leyes del Ajedrez 
+ 
+Página 2 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+1.3 
+Se dice que un jugador “está en juego” cuando se ha realizado el movimiento de su 
+adversario. 
+1.4 
+El objetivo de cada jugador es situar al rey de su adversario “bajo ataque”, de tal forma que 
+el adversario no disponga de ningún movimiento legal.   
+1.4.1 
+Del jugador que alcanza este objetivo se dice que ha dado “mate” al rey de su 
+adversario y que ha ganado la partida. No está permitido dejar el propio rey bajo 
+ataque, ni exponerlo al ataque ni capturar el rey del oponente.  
+1.4.2 
+El adversario, cuyo rey ha recibido mate, pierde la partida. 
+1.5 
+Si la posición es tal que ninguno de los jugadores puede dar mate, la partida es tablas. (Ver 
+artículo 5.2.2) 
+Artículo 2: La posición inicial de las piezas sobre el tablero 
+2.1 
+El tablero de ajedrez es un cuadrado dividido en 64 casillas cuadradas del mismo tamaño, 
+con distribución 8 x 8, alternativamente claras (las casillas “blancas”) y oscuras (las casillas 
+“negras”). 
+El tablero se coloca entre los jugadores de tal forma que la casilla de la esquina derecha más 
+cercana a cada jugador sea blanca. 
+2.2 
+Al comienzo de la partida, el Blanco dispone de 16 piezas de color claro (las piezas 
+“blancas”); el Negro tiene 16 piezas de color oscuro (las piezas “negras”). 
+Estas piezas son las siguientes: 
+Un rey blanco, representado habitualmente por el símbolo: 
+ 
+Una dama blanca, representada habitualmente por el símbolo: 
+ 
+Dos torres blancas, representadas habitualmente por el símbolo: 
+ 
+Dos alfiles blancos, representados habitualmente por el símbolo: 
+ 
+Dos caballos blancos, representados habitualmente por el símbolo: 
+ 
+Ocho peones blancos, representados habitualmente por el símbolo: 
+ 
+Un rey negro, representado habitualmente por el símbolo: 
+ 
+Una dama negra, representada habitualmente por el símbolo: 
+ 
+Dos torres negras, representadas habitualmente por el símbolo: 
+ 
+Dos alfiles negros, representados habitualmente por el símbolo: 
+ 
+Dos caballos negros, representados habitualmente por el símbolo: 
+ 
+Ocho peones negros, representados habitualmente por el símbolo: 
+ 
+Piezas Staunton: 
+
+Leyes del Ajedrez 
+ 
+Página 3 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+ 
+p    D    R     A    C    T 
+2.3 
+La posición inicial de las piezas sobre el tablero es la siguiente: 
+ 
+2.4 
+Las ocho hileras verticales de casillas se denominan “columnas”. Las ocho hileras 
+horizontales de casillas se denominan “filas”. Una sucesión de casillas del mismo color en 
+línea recta que va desde un borde del tablero hasta otro adyacente, se denomina “diagonal”. 
+Artículo 3: El movimiento de las piezas 
+3.1 
+No está permitido mover una pieza a una casilla ocupada por una pieza del mismo color. 
+3.1.1 
+Si una pieza se mueve a una casilla ocupada por una pieza de su adversario, esta es 
+capturada y retirada del tablero como parte del mismo movimiento.  
+3.1.2 
+Se dice que una pieza ataca a otra del adversario si puede efectuar una captura en 
+esa casilla conforme a los artículos 3.2 a 3.8. 
+3.1.3 
+Se considera que una pieza ataca una casilla, incluso si esta no puede ser movida a 
+dicha casilla, porque este movimiento dejaría o colocaría su propio rey bajo ataque. 
+3.2 
+El alfil puede ser movido a cualquier casilla a lo largo de una de las diagonales sobre las 
+que se encuentra. 
+ 
+
+Leyes del Ajedrez 
+ 
+Página 4 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+3.3 
+La torre puede ser movida a cualquier casilla a lo largo de la fila o columna en las que se 
+encuentra. 
+ 
+3.4 
+La dama puede ser movida a cualquier casilla a lo largo de la fila, columna o diagonal en 
+las que se encuentra. 
+ 
+3.5 
+Al realizar estos movimientos, el alfil, la torre o la dama no pueden pasar sobre ninguna otra 
+pieza. 
+3.6 
+El caballo puede ser movido a una de las casillas más próximas a la que se encuentra, sin 
+ser de la misma fila, columna o diagonal. 
+  
+ 
+3.7.1 
+El peón puede ser movido hacia adelante a la casilla inmediatamente delante suyo 
+en la misma columna, siempre que dicha casilla esté desocupada; o 
+
+Leyes del Ajedrez 
+ 
+Página 5 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+3.7.2 
+En su primer movimiento el peón puede ser movido como en 3.7.1; 
+alternativamente, puede avanzar dos casillas a lo largo de la misma columna, 
+siempre que ambas casillas estén desocupadas; o 
+3.7.3 
+El peón puede ser movido a una casilla ocupada por una pieza del adversario que 
+esté en diagonal delante de él, sobre una columna adyacente, capturando dicha 
+pieza. 
+ 
+3.7.4.1 
+ Un peón que ocupa una casilla en la misma fila y en una columna 
+adyacente que un peón del adversario que acaba de avanzar dos 
+casillas en un solo movimiento desde su casilla original, puede 
+capturar este peón del adversario como si este hubiera avanzado solo 
+una casilla.  
+3.7.4.2 
+ Esta captura es solo legal en el movimiento inmediatamente 
+siguiente al citado avance y se denomina captura “al paso”. 
+ 
+3.7.5.1 
+ Cuando un jugador, que está en juego, mueve un peón a la fila más 
+alejada desde su posición inicial, debe cambiarlo como parte del 
+mismo movimiento por una dama, torre, alfil o caballo del color del 
+peón en la casilla de llegada. Esta se conoce como la casilla de 
+“promoción”.   
+3.7.5.2 
+ La elección del jugador no está limitada a piezas que hayan sido 
+capturadas anteriormente.  
+
+Leyes del Ajedrez 
+ 
+Página 6 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+3.7.5.3 
+ Este cambio de un peón por otra pieza se denomina “promoción”, 
+siendo inmediato el efecto de la nueva pieza. 
+3.8 
+Hay dos formas diferentes de mover el rey: 
+3.8.1 
+Desplazándolo a cualquier casilla adyacente, 
+ 
+3.8.2 
+“enrocando”. El enroque es un movimiento del rey y de una de las torres del mismo 
+color a lo largo de la primera fila del jugador, que cuenta como un simple 
+movimiento del rey y que se realiza como sigue: el rey es trasladado dos casillas 
+desde su casilla original hacia la torre en su casilla original y luego dicha torre es 
+trasladada a la casilla que acaba de cruzar el rey. 
+Antes y después del enroque blanco en el flanco de rey 
+Antes y después del enroque negro en el flanco de dama 
+ 
+              
+ 
+ 
+
+Leyes del Ajedrez 
+ 
+Página 7 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+Antes y después del enroque blanco en el flanco de dama 
+Antes y después del enroque negro en el flanco de rey 
+ 
+3.8.2.1  
+Se ha perdido el derecho al enroque: 
+3.8.2.1.1 
+si el rey ya ha sido movido, o 
+3.8.2.1.2 
+con una torre que ya ha sido movida. 
+3.8.2.2  
+El enroque está temporalmente impedido: 
+3.8.2.2.1 
+si la casilla en la que se encuentra el rey, o la que debe 
+cruzar, o la que finalmente va a ocupar, está atacada 
+por una o más piezas del adversario, 
+3.8.2.2.2 
+si hay alguna pieza entre el rey y la torre con la que 
+se va a efectuar el enroque. 
+3.9.1 
+Se dice que el rey está “en jaque” si está atacado por una o más piezas del 
+adversario, incluso aunque dichas piezas no pudieran ser movidas a la casilla 
+ocupada por el rey porque dejarían o situarían a su propio rey en jaque.  
+3.9.2   
+Ninguna pieza puede ser movida de forma que ponga o deje a su propio rey en 
+jaque. 
+3.10.1 Un movimiento es legal cuando se han cumplido todos los requisitos pertinentes 
+de los artículos 3.1 - 3.9.  
+3.10.2 Un movimiento es ilegal cuando no cumpla con los requisitos pertinentes de los 
+artículos 3.1 -3.9  
+3.10.3 Una posición es ilegal cuando no se puede alcanzar mediante una serie de 
+movimientos legales.  
+Artículo 4: La acción de mover las piezas 
+4.1 
+Cada movimiento debe ser jugado con una sola mano. 
+4.2.1 
+Solo el jugador que está en juego puede ajustar una o más piezas en sus casillas, 
+siempre que previamente exprese su intención de hacerlo (por ejemplo, diciendo 
+“j’adoube” o “compongo”). 
+4.2.2  
+Cualquier otro contacto físico con una pieza, excepto si es claramente accidental, 
+se considerará intencionado. 
+4.3 
+Exceptuando lo previsto en el artículo 4.2, si el jugador que está en juego toca sobre el 
+tablero con la intención de mover o capturar: 
+4.3.1 
+una o más piezas propias, debe mover la primera pieza tocada que se pueda mover;  
+
+Leyes del Ajedrez 
+ 
+Página 8 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+4.3.2 
+ una o más piezas del adversario, debe capturar la primera pieza tocada que pueda 
+ser capturada; 
+4.3.3 
+una o más piezas de cada color, debe capturar la primera pieza tocada del 
+adversario con su primera pieza tocada o, si ello es ilegal, mover o capturar la 
+primera pieza tocada que se pueda mover o capturar. Si resulta imposible establecer 
+qué pieza se tocó en primer lugar, será la pieza propia la que se considere como 
+pieza tocada. 
+4.4 
+Si el jugador que está en juego 
+4.4.1 
+toca su rey y una torre, debe enrocar por ese lado si fuera legal hacerlo, o 
+4.4.2 
+toca deliberadamente una torre y luego su rey, no podrá enrocar por ese lado en ese 
+movimiento y se procederá según lo establecido en el artículo 4.3.a, o 
+4.4.3 
+con la intención de enrocar, toca el rey y luego una torre, siendo ilegal el enroque 
+con esa torre, el jugador debe realizar otro movimiento legal con su rey (lo que 
+puede incluir el enroque con la otra torre). Si el rey no tiene ningún movimiento 
+legal, el jugador es libre de realizar cualquier movimiento legal, o 
+4.4.4 
+promociona un peón, la elección de la nueva pieza se considerará definitiva cuando 
+esta toque la casilla de promoción. 
+4.5 
+Si ninguna de las piezas tocadas de acuerdo con los artículos 4.3 o 4.4 puede ser movida o 
+capturada, el jugador puede realizar cualquier movimiento legal. 
+4.6 
+El acto de promoción puede realizarse de varias maneras:  
+4.6.1 
+el peón no tiene por qué ser colocado en la casilla de llegada,  
+4.6.2 
+la retirada del peón y la colocación de la nueva pieza en la casilla de promoción 
+pueden realizarse en cualquier orden.  
+4.6.3  
+Si una pieza del oponente se encuentra en la casilla de llegada, debe ser capturada.  
+4.7 
+Cuando se ha dejado una pieza en una casilla, como movimiento legal o parte de un 
+movimiento legal, ya no puede ser movida a otra casilla en este movimiento. Se considera 
+realizado un movimiento: 
+4.7.1 
+en el caso de una captura, cuando la pieza capturada se ha retirado del tablero y el 
+jugador ha soltado su propia pieza después de situarla en su nueva casilla, o 
+4.7.2 
+en el caso del enroque, cuando el jugador ha soltado la torre en la casilla 
+previamente cruzada por el rey. Cuando el jugador ha soltado el rey, el movimiento 
+no se considera todavía completado, pero el jugador ya no tiene otra opción que 
+realizar el enroque por ese lado, siempre que sea legal. Si el enroque por ese lado 
+es ilegal, el jugador debe hacer otro movimiento legal con su rey (que puede incluir 
+
+Leyes del Ajedrez 
+ 
+Página 9 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+el enroque con la otra torre). Si el rey no tiene ningún movimiento legal, el jugador 
+es libre de realizar cualquier movimiento legal. 
+4.7.3 
+en el caso de la promoción, cuando la mano del jugador ha soltado la nueva pieza 
+en la casilla de promoción, y el peón se ha retirado del tablero. 
+4.8 
+Una vez que un jugador toca una pieza con la intención de moverla o capturarla, pierde su 
+derecho a reclamar la violación por parte de su adversario de los artículos 4.1 – 4.7. 
+4.9. Si un jugador es incapaz de mover las piezas, puede proporcionar un asistente, que deberá 
+ser aceptable para el árbitro, para realizar esta operación. 
+Artículo 5: La finalización de la partida 
+5.1.1 
+La partida es ganada por el jugador que ha dado mate al rey de su adversario. Esto 
+finaliza inmediatamente la partida, siempre que el movimiento que generó la 
+posición de mate cumpla con el artículo 3 y con los artículos 4.2 - 4.7. 
+5.1.2 
+La partida es ganada por el jugador cuyo adversario declara que abandona. Esto 
+finaliza inmediatamente la partida. 
+5.2.1  
+La partida es tablas cuando el jugador que está en juego no puede hacer ningún 
+movimiento legal y su rey no está en jaque. Se dice entonces que el rey está 
+“ahogado”. Esto finaliza inmediatamente la partida, siempre que el movimiento 
+que generó la posición de rey ahogado cumpla con el artículo 3 y los artículos 4.2 
+- 4.7. 
+5.2.2  
+La partida es tablas cuando se alcanza una posición en la que ningún jugador puede 
+dar mate al rey del adversario con cualquier serie de movimientos legales. Se dice 
+entonces que la partida termina en una “posición muerta”. Esto finaliza 
+inmediatamente la partida, siempre que el movimiento que generó tal posición 
+cumpla con el artículo 3 y con los artículos 4.2 a 4.7. 
+5.2.3  
+La partida es tablas por acuerdo entre los dos jugadores durante el desarrollo de la 
+misma, siempre y cuando ambos jugadores hayan efectuado al menos un 
+movimiento. Esto finaliza inmediatamente la partida. 
+ 
+REGLAS DE COMPETICIÓN 
+Artículo 6: El reloj de ajedrez 
+6.1 
+Se entiende por “reloj de ajedrez” un reloj con dos indicadores de tiempo, conectados entre 
+sí de tal forma que solo uno de ellos pueda funcionar en cada momento. 
+En las presentes Leyes, el término “reloj” hace referencia a uno de los dos citados 
+indicadores de tiempo. 
+Cada pantalla del reloj cuenta con una “bandera”. 
+
+Leyes del Ajedrez 
+ 
+Página 10 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+Se entiende por “caída de bandera” la finalización del tiempo asignado a un jugador. 
+ 
+6.2.1 
+Durante la partida, cada jugador, una vez realizada su movimiento sobre el tablero, 
+detendrá su reloj y pondrá en marcha el de su adversario (es decir, deberá pulsar su 
+reloj). Esto “completa” el movimiento. También se completa un movimiento si: 
+6.2.1.1 
+ el movimiento termina la partida (véanse los artículos 5.1.1, 5.2.1, 
+5.2.2, 9.6.1, 9.6.2), o  
+6.2.1.2 
+ el jugador ha realizado su siguiente movimiento, cuando no se haya 
+completado su movimiento anterior. 
+6.2.2 
+A un jugador siempre se le debe permitir detener su reloj después de realizar su 
+movimiento, incluso después de que su adversario haya realizado su siguiente 
+movimiento. El tiempo trascurrido entre la realización del movimiento y la puesta 
+en marcha del reloj se considera como parte del tiempo asignado al jugador. 
+6.2.3  
+Un jugador debe pulsar su reloj con la misma mano con la que realizó su 
+movimiento. Está prohibido que un jugador mantenga el dedo sobre el pulsador o 
+“rondando” por encima del mismo. 
+6.2.4  
+Los jugadores deben manejar el reloj de ajedrez correctamente. Está prohibido 
+golpearlo violentamente, cogerlo, pulsar antes de jugar o tirarlo. Un manejo 
+incorrecto del reloj será penalizado de acuerdo con el artículo 12.9. 
+6.2.5 
+Solo se permite ajustar las piezas al jugador cuyo reloj está en marcha.  
+6.2.6  
+Si un jugador es incapaz de utilizar el reloj, puede proporcionar un asistente, que 
+deberá ser aceptable para el árbitro, para realizar esta operación. El árbitro ajustará 
+su reloj de una forma proporcionada. Este ajuste no se aplicará al reloj de un 
+jugador discapacitado. 
+6.3.1  
+Al utilizar un reloj de ajedrez, cada jugador debe completar un número mínimo de 
+movimientos, o todos, en un período de tiempo prefijado que incluye una cantidad 
+de tiempo adicional con cada movimiento. Todas estas cuestiones deben ser 
+especificadas con antelación. 
+6.3.2  
+El tiempo no consumido por un jugador durante un período se añade a su tiempo 
+disponible para el siguiente período, si lo hubiere. 
+En la modalidad de demora, ambos jugadores reciben un determinado “tiempo 
+principal de reflexión”. Además, por cada movimiento reciben un “tiempo extra 
+fijo”. El descuento del tiempo principal comienza solo cuando el tiempo extra fijo 
+se ha agotado. El tiempo principal de reflexión no cambia, siempre que el jugador 
+detenga su reloj antes de que se agote el tiempo extra, independientemente de la 
+proporción de tiempo extra utilizado. 
+
+Leyes del Ajedrez 
+ 
+Página 11 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+6.4 
+Inmediatamente después de una caída de bandera, deben comprobarse los requisitos del 
+artículo 6.3.1 
+6.5 
+Antes del comienzo de la partida, el árbitro decidirá la ubicación del reloj de ajedrez. 
+6.6 
+A la hora especificada para el comienzo de la partida, se pone en marcha el reloj del Blanco.  
+6.7.1. 
+Las bases del torneo deberán especificar por adelantado un tiempo de 
+incomparecencia. Si no se especifica, el tiempo de espera es cero. Cualquier 
+jugador que se presente ante el tablero después del tiempo de incomparecencia 
+perderá la partida a menos que el árbitro decida otra cosa. 
+6.7.2 
+En el caso de que las bases del torneo especifiquen que el tiempo de 
+incomparecencia no sea cero y si ninguno de los jugadores está presente 
+inicialmente, el Blanco perderá todo el tiempo trascurrido hasta su llegada, salvo 
+que las bases del torneo o el árbitro decidan otra cosa. 
+6.8 
+Se considera que una bandera ha caído cuando el árbitro lo observa o cuando uno de los dos 
+jugadores ha efectuado una reclamación válida en ese sentido. 
+6.9  Excepto los casos donde se aplique uno de los artículos 5.1.1, 5.1.2, 5.2.1, 5.2.2 o 5.2.3, si 
+un jugador no completa el número prescrito de movimientos en el tiempo asignado, pierde 
+la partida. Sin embargo, la partida es tablas si la posición es tal que el adversario no puede 
+dar mate al jugador mediante cualquier posible combinación de movimientos legales 
+6.10.1 
+Toda indicación proporcionada por el reloj de ajedrez se considera concluyente en 
+ausencia de algún defecto evidente. Un reloj de ajedrez con un defecto evidente 
+debe ser reemplazado por el árbitro, quien deberá hacer uso de su mejor criterio al 
+determinar los tiempos que deben aparecer en el reloj de ajedrez reemplazado. 
+6.10.2 
+Si se descubre durante la partida que la configuración de cualquiera de ambos 
+relojes es incorrecta, un jugador o el árbitro parará los relojes de inmediato. El 
+árbitro introducirá la configuración correcta y ajustará los tiempos y el contador de 
+movimientos si es necesario. El árbitro hará uso de su mejor criterio al determinar 
+la configuración del reloj. 
+6.11.1  Si la partida debe ser interrumpida, el árbitro detendrá el reloj de ajedrez. 
+6.11.2 
+Un jugador puede detener el reloj de ajedrez solo para solicitar la asistencia del 
+árbitro, por ejemplo, cuando se ha producido una promoción y no está disponible 
+la pieza requerida. 
+6.11.3 
+El árbitro decidirá cuándo se va a reanudar la partida. 
+6.11.4 
+Si un jugador detiene el reloj de ajedrez para solicitar la asistencia del árbitro, este 
+determinará si el jugador tenía una razón válida para hacerlo. Si resulta obvio que 
+el jugador no tenía una razón válida para detenerlo, será sancionado conforme al 
+artículo 12.9. 
+
+Leyes del Ajedrez 
+ 
+Página 12 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+6.12.1 
+En el recinto de juego se permite el uso de pantallas, monitores o tableros murales 
+que muestren la posición actual sobre el tablero, los movimientos y el número de 
+movimientos realizados o completados, así como relojes que muestren incluso el 
+número de movimientos.  
+6.12.2 
+El jugador no puede realizar una reclamación basándose solo en la información 
+mostrada por este tipo de dispositivos. 
+Artículo 7: Irregularidades 
+ 
+7.1 
+Si se produce una irregularidad y las piezas deben ser reubicadas a una posición anterior, el 
+árbitro hará uso de su mejor criterio para determinar los tiempos que deben aparecer en los 
+relojes. Esto incluye el derecho de no cambiar el tiempo del reloj. También, en caso 
+necesario, ajustará el contador de movimientos. 
+7.2.1 
+Si en el trascurso de la partida, se compruebe que la posición inicial de las piezas 
+era incorrecta, la partida se anulará y se jugará una nueva.  
+7.2.2  
+Si en el trascurso de una partida se comprueba que el tablero no se colocó de 
+acuerdo con el artículo 2.1, la partida continuará, pero la posición deberá 
+transferirse a un tablero colocado correctamente. 
+7.3  Si una partida ha comenzado con los colores cambiados entonces, si ambos jugadores han 
+hecho menos de 10 movimientos, se interrumpirá y se jugará una nueva partida con los 
+colores correspondientes. Después de realizados 10 o más movimientos, la partida 
+continuará. 
+ 
+7.4.1 
+Si un jugador desplaza una o más piezas, restablecerá la posición correcta en su 
+propio tiempo.  
+7.4.2  
+Si es necesario, tanto el jugador como su adversario pueden detener el reloj de 
+ajedrez y solicitar la asistencia del árbitro.  
+7.4.3   
+El árbitro puede sancionar al jugador que desplazó las piezas. 
+7.5.1 
+Un movimiento ilegal se completa una vez que el jugador ha pulsado su reloj. Si 
+durante la partida se comprueba que se ha completado un movimiento ilegal, se 
+restablecerá la posición inmediatamente anterior a la irregularidad. Si no puede 
+determinarse la posición inmediatamente anterior a la irregularidad, la partida 
+continuará a partir de la última posición identificable previa a la irregularidad. Al 
+movimiento que reemplace al movimiento ilegal se le aplicarán los artículos 4.3 y 
+4.7. Después continuará la partida a partir de esta posición restablecida.  
+7.5.2  
+Si el jugador mueve un peón a la fila más lejana y pulsa el reloj, pero no sustituye 
+el peón por una nueva pieza, el movimiento es ilegal. El peón se sustituye por una 
+dama del mismo color que el peón. 
+
+Leyes del Ajedrez 
+ 
+Página 13 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+7.5.3  
+Después de actuar conforme al artículo 7.5.1 o 7.5.2, para el primer movimiento 
+ilegal completado, el árbitro concederá dos minutos de tiempo extra al adversario; 
+para el segundo movimiento ilegal completada del mismo jugador, el árbitro 
+decretará la pérdida de la partida para el infractor. Sin embargo, decretará tablas si 
+la posición es tal que el oponente no puede dar jaque mate al rey del infractor 
+mediante cualquier serie de movimientos legales. 
+7.6  Si durante una partida se comprueba que algunas piezas han sido desplazadas de sus casillas, 
+deberá restablecerse la posición anterior a la irregularidad. Si no puede identificarse dicha 
+posición, la partida continuará a partir de la última posición identificable previa a la 
+irregularidad. Después continuara la partida a partir de esta posición restablecida. 
+7.7.1  
+Si un jugador utiliza las dos manos para hacer un movimiento (en caso de 
+enroque, captura o promoción), se considerará como un movimiento ilegal.  
+ 
+7.7.2 
+Para la primera infracción del art. 7.7.1, el árbitro concederá dos minutos de 
+tiempo extra a su oponente. Para la segunda infracción del art.7.7.1 por el mismo 
+jugador el árbitro decretará la pérdida de la partida para el infractor. Sin 
+embargo, decretará tablas si la posición es tal que el oponente no puede dar jaque 
+mate al rey del infractor mediante cualquier serie de movimientos legales. 
+ 
+7.8.1  
+Si el jugador presiona el reloj sin hacer ningún movimiento, se considerará como 
+un movimiento ilegal  
+ 
+7.8.2  
+Para la primera infracción del art. 7.8.1, el árbitro concederá dos minutos de 
+tiempo extra a su oponente. Para la segunda infracción del art.7.8.1 por el mismo 
+jugador el árbitro decretará la pérdida de la partida para el infractor. Sin 
+embargo, decretará tablas si la posición es tal que el oponente no puede dar jaque 
+mate al rey del infractor mediante cualquier serie de movimientos legales. 
+Artículo 8: La anotación de los movimientos 
+ 
+8.1.1 En el trascurso de la partida cada jugador está obligado a anotar sus propios 
+movimientos y las de su adversario en la forma correcta, movimiento tras 
+movimiento, de forma tan clara y legible como sea posible, en anotación algebraica 
+(ver Apéndice C), en la planilla prescrita para la competición.  
+8.1.2 Está prohibido anotar los movimientos antes de realizarlos, excepto cuando el 
+jugador esté reclamando tablas según los artículos 9.2, 9.3 o aplazando la partida 
+según el Apéndice E.1.1. 
+8.1.3 La planilla se utilizará únicamente para anotar los movimientos, los tiempos de los 
+relojes, las ofertas de tablas, temas relacionados con una reclamación u otros datos 
+relevantes.  
+
+Leyes del Ajedrez 
+ 
+Página 14 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+8.1.4 Un jugador puede replicar a un movimiento de su adversario antes de anotarlo, si 
+así lo desea. Debe anotar su movimiento previo antes de realizar otra.  
+8.1.5 Ambos jugadores deben anotar en su planilla la oferta de tablas con el símbolo (=).  
+8.1.6 Si un jugador es incapaz de anotar, puede proporcionar un asistente, aceptable para 
+el árbitro, para anotar los movimientos. El árbitro ajustará su reloj de una forma 
+proporcionada. Este ajuste no se aplicará a un jugador discapacitado.  
+8.2 
+La planilla estará a la vista del árbitro durante toda la partida. 
+8.3 
+Las planillas son propiedad de los organizadores del torneo. 
+8.4 
+ Si un jugador dispone de menos de cinco minutos en su reloj en algún momento de un 
+periodo y no tiene un tiempo adicional de 30 segundos o más añadidos con cada 
+movimiento, no está obligado hasta el final del periodo a cumplir los requisitos del artículo 
+8.1. 
+8.5.1 Si ningún jugador anota la partida según el artículo 8.4, el árbitro o un asistente 
+procurarán estar presentes y anotar los movimientos. En tal caso, inmediatamente 
+después de que haya caído una bandera, el árbitro parará el reloj de ajedrez y ambos 
+jugadores actualizarán sus planillas, utilizando la planilla del árbitro o la del 
+adversario. 
+ 
+8.5.2 Si solo un jugador ha dejado de anotar la partida según el artículo 8.4, debe 
+actualizar completamente su planilla en cuanto haya caído cualquiera de las dos 
+banderas antes de mover cualquier pieza en el tablero. En el supuesto de que el 
+jugador esté en juego, puede utilizar la planilla de su adversario pero tendrá que 
+devolverla antes de hacer un movimiento. 
+8.5.3 Si no hay ninguna planilla completa disponible, los jugadores deben reconstruir la 
+partida sobre un segundo tablero bajo el control del árbitro o un asistente. Primero, 
+y antes de que se realice la reconstrucción, el árbitro anotará la posición actual de 
+la partida, el tiempo trascurrido en ambos relojes, cuál estaba en marcha y el 
+número de movimientos realizados o completados, si se dispone de tal información. 
+8.6 
+Si no se pueden actualizar las planillas de forma que muestren que un jugador ha 
+sobrepasado el tiempo asignado, el siguiente movimiento realizado será considerado como 
+el primero del siguiente periodo de tiempo, salvo que sea evidente que se han realizado o 
+completado más movimientos. 
+8.7 
+Al finalizar la partida ambos jugadores firmarán las dos planillas, indicando el resultado. 
+Dicho resultado permanecerá aunque sea incorrecto, salvo que el árbitro decida otra cosa. 
+Artículo 9: La partida tablas 
+ 
+
+Leyes del Ajedrez 
+ 
+Página 15 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+9.1.1 Las bases del torneo podrán prohibir a los jugadores ofrecer o aceptar tablas, bien 
+antes de un número concreto de movimientos o bien en ningún caso, sin el 
+consentimiento del árbitro. 
+ 
+9.1.2 Sin embargo, si las bases del torneo permiten el acuerdo de tablas, se aplicará lo 
+siguiente: 
+9.1.2.1 
+ Un jugador que desee ofrecer tablas deberá hacerlo después de haber 
+realizado un movimiento sobre el tablero y antes de pulsar su reloj. 
+Una oferta en cualquier otro momento de la partida será válida, pero 
+se tendrá en consideración el artículo 11.5. La oferta no puede ir 
+ligada a ninguna condición. En ambos casos, no se puede retirar la 
+oferta y mantiene su validez hasta que el adversario la acepte, la 
+rechace, bien verbalmente o bien tocando una pieza con intención 
+de moverla o capturarla, o la partida concluya de alguna otra forma. 
+9.1.2.2 
+ La oferta de tablas será anotada por cada jugador en su planilla con 
+el símbolo (=). 
+ 
+9.1.2.3 
+ Una reclamación de tablas conforme a los artículos 9.2 o 9.3 tendrá 
+la consideración de una oferta de tablas. 
+9.2.1 
+La partida es tablas, bajo una correcta reclamación del jugador que está en juego, 
+cuando la misma posición, al menos por tercera vez (no necesariamente por 
+repetición de movimientos)  
+9.2.1.1 
+ Va a producirse, si el jugador primero anota su movimiento, que no 
+puede ser cambiada, en su planilla y declara al árbitro su intención 
+de realizarla; o 
+9.2.1.2  
+Acaba de producirse y el reclamante está en juego. 
+9.2.2 
+Se considera que las posiciones son la misma si y solo si el mismo jugador está en 
+juego, las piezas del mismo tipo y color ocupan las mismas casillas, y los 
+movimientos posibles de todas las piezas de ambos jugadores son los mismos. Por 
+lo tanto, las posiciones no son la misma si: 
+9.2.2.1 al principio de la secuencia un peón pudiera haber sido capturado al paso.  
+9.2.2.2 un rey tuviera derecho al enroque con una torre que no se ha movido, pero 
+perdiera este derecho después de moverse. El derecho al enroque se pierde 
+solo después de mover el rey o la torre. 
+9.3 
+La partida es tablas, bajo una correcta reclamación del jugador que está en juego, si: 
+
+Leyes del Ajedrez 
+ 
+Página 16 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+9.3.1 
+ escribe en su planilla su movimiento, que no puede ser cambiado, y declara al 
+árbitro su intención de realizarlo, lo que dará lugar a que, en los últimos 50 
+movimientos por cada jugador no se hayan realizado movimientos de peón ni 
+capturas; o  
+9.3.2  
+se hayan completado los últimos 50 movimientos de cada jugador sin movimientos 
+de peón ni capturas. 
+9.4 
+Si un jugador toca una pieza según el artículo 4.3, pierde el derecho a reclamar tablas en ese 
+movimiento según los artículos 9.2 y 9.3. 
+9.5.1  
+Si un jugador reclama tablas según los artículos 9.2 o 9.3, el jugador o el árbitro 
+detendrá el reloj de ajedrez (ver artículo 6.12.1 o 6.12.2). No se le permite retirar 
+su reclamación. 
+9.5.2 
+Si se comprueba que la reclamación es correcta, la partida es tablas de forma 
+inmediata. 
+9.5.3 
+Si se comprueba que la reclamación es incorrecta, el árbitro añadirá dos minutos al 
+tiempo de reflexión restante de su adversario y continuará la partida. Si la 
+reclamación se basaba en un movimiento anunciado, esta habrá de realizarse de 
+acuerdo con los artículos 3 y 4. 
+9.6    La partida es tablas si se produce uno o los dos siguientes casos:  
+9.6.1 
+la misma posición ha aparecido, como en 9.2.2, al menos cinco veces 
+9.6.2 
+se ha efectuado cualquier serie de al menos 75 movimientos realizados por cada 
+jugador sin movimientos de peón, ni capturas. Si el último movimiento resulta en 
+jaque mate, este prevalecerá.  
+Artículo 10: Puntuación 
+10.1 A menos que las bases del torneo especifiquen otra cosa, un jugador que gana su partida, o 
+que gana por incomparecencia, recibe un punto (1); un jugador que pierde su partida, o que 
+pierde por incomparecencia, recibe cero puntos (0); y un jugador que entabla su partida 
+recibe medio punto (½). 
+10.2 La puntuación total de cualquier partida nunca puede exceder de la máxima puntuación de 
+una partida normal. Las puntuaciones dadas a un jugador individual deben ser aquellas 
+normalmente asociadas con el juego, por ejemplo una puntuación de ¾ - ¼ no está 
+permitida. 
+Artículo 11: La conducta de los jugadores 
+11.1 Los jugadores no actuarán de forma que deshonren el juego del ajedrez. 
+
+Leyes del Ajedrez 
+ 
+Página 17 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+11.2.1 
+El “recinto de juego” se define como la “zona de juego”, aseos, salas de descanso, 
+zona de refrigerios, zona anexa de fumadores y otros lugares designados por el 
+árbitro.  
+11.2.2 
+La zona de juego se define como el lugar donde se juegan las partidas de una 
+competición.  
+11.2.3 
+Solo con el permiso del árbitro puede: 
+11.2.3.1 Un jugador abandonar el recinto de juego.  
+11.2.3.2 El jugador que está en juego salir de la zona de juego.  
+11.2.3.3 Una persona que no es ni jugador ni árbitro acceder a la zona de juego.   
+11.2.4  Las bases del torneo pueden especificar que el oponente de un jugador 
+que esté en juego deba avisar al árbitro cuando desee abandonar la zona de 
+juego. 
+11.3.1 
+Durante la partida está prohibido que los jugadores hagan uso de cualquier tipo de 
+notas, fuentes de información o consejos; o analizar cualquier partida en otro 
+tablero. 
+11.3.2.1 Durante la partida está prohibido que un jugador tenga cualquier 
+dispositivo electrónico no aprobado específicamente por el árbitro en 
+la sala de juego.  
+Sin embargo, las bases del torneo pueden permitir que tales 
+dispositivos se almacenen en la bolsa de los jugadores, siempre y 
+cuando el dispositivo esté completamente apagado. Esta bolsa debe 
+colocarse en el lugar designado por el árbitro. Ambos jugadores tienen 
+prohibido utilizar esta bolsa sin el permiso del árbitro. 
+11.3.2.2 Si es evidente que un jugador lleva encima un dispositivo de este tipo 
+dentro del recinto de juego, perderá la partida. El adversario ganará. Las 
+bases de un torneo pueden especificar una sanción diferente, menos 
+grave.  
+11.3.3 
+El árbitro puede requerir al jugador que permita la inspección de su ropa, bolsos, 
+otros artículos y cuerpo en privado. El árbitro o una persona autorizada por el 
+árbitro deberá inspeccionar al jugador y deberá ser del mismo sexo que este. Si un 
+jugador se niega a cooperar con estas obligaciones, el árbitro tomará medidas de 
+acuerdo con el artículo 12.9.  
+11.3.4 
+Fumar, incluidos los cigarrillos electrónicos, solo estará permitido en la zona del 
+recinto de juego designada por el árbitro. 
+11.4 Los jugadores que hayan finalizado sus partidas serán considerados espectadores. 
+
+Leyes del Ajedrez 
+ 
+Página 18 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+11.5 Está prohibido distraer o molestar al adversario de cualquier manera. Esto incluye 
+reclamaciones u ofertas de tablas improcedentes o la introducción de una fuente de ruido en 
+la zona de juego. 
+11.6 Las infracciones a las reglas establecidas en los artículos 11.1 a 11.5 darán lugar a sanciones 
+conforme al artículo 12.9. 
+11.7 La persistente negativa de un jugador a cumplir con las Leyes del Ajedrez será sancionada 
+con la pérdida de la partida. El árbitro decidirá la puntuación del adversario. 
+11.8 Si ambos jugadores son considerados culpables de acuerdo con el artículo 11.7, la partida 
+se declarará perdida para ambos. 
+11.9 Un jugador tiene derecho a solicitar al árbitro una explicación de cualquier punto de las 
+Leyes del Ajedrez. 
+11.10  A menos que las bases del torneo especifiquen lo contrario, un jugador puede apelar contra 
+cualquier decisión del árbitro, aunque el jugador haya firmado la planilla (véase el artículo 
+8.7). 
+11.11  Ambos jugadores deben ayudar al árbitro en cualquier situación que requiera la 
+reconstrucción de la partida incluidas las reclamaciones de tablas. 
+11.12  La comprobación de la reclamación de triple repetición o 50 movimientos es un deber de 
+los jugadores, bajo la supervisión del árbitro. 
+Artículo 12: El papel del árbitro (ver el Prólogo) 
+12.1 El árbitro velará por que se cumplan las Leyes del Ajedrez. 
+12.2 El árbitro deberá: 
+12.2.1 
+Garantizar el juego limpio.  
+12.2.2 
+Actuar en el mejor interés de la competición.  
+12.2.3  
+Asegurarse de que se mantiene un buen ambiente de juego.  
+12.2.4  
+Asegurarse de que los jugadores no sean molestados.  
+12.2.5  
+Supervisar el desarrollo de la competición.  
+12.2.6 
+ Tomar medidas especiales en los casos de los jugadores con discapacidad y de las 
+personas que necesitan atención médica. 
+12.2.7   Seguir las reglas o directrices anti-trampas 
+12.3 El árbitro observará las partidas, especialmente cuando los jugadores estén apurados de 
+tiempo, exigirá el cumplimiento de las decisiones que haya adoptado y, cuando corresponda, 
+impondrá sanciones a los jugadores. 
+
+Leyes del Ajedrez 
+ 
+Página 19 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+12.4 El árbitro puede nombrar ayudantes para observar las partidas, por ejemplo, cuando hay 
+varios jugadores apurados de tiempo. 
+12.5 El árbitro puede conceder tiempo adicional a uno o ambos jugadores en caso de desorden 
+ajeno a la partida. 
+ 
+12.6 El árbitro no puede intervenir en una partida excepto en los casos descritos en las Leyes del 
+Ajedrez. No indicará el número de movimientos completados, excepto en aplicación del 
+artículo 8.5 cuando al menos una de las banderas haya caído. El árbitro se abstendrá de 
+informar a un jugador de que su adversario ha realizado un movimiento o de que no ha 
+pulsado su reloj. 
+12.7 Si alguien observa una irregularidad, solo puede informar al árbitro. Los jugadores de otras 
+partidas no pueden hablar o interferir de ningún modo en una partida. Los espectadores no 
+están autorizados a intervenir en una partida. El árbitro puede expulsar a los infractores del 
+recinto de juego. 
+12.8 Está prohibido para cualquiera el uso de teléfonos móviles o de cualquier otro dispositivo 
+de comunicación en el recinto de juego y en cualquier otra zona designada por el árbitro, 
+salvo que cuente con su autorización. 
+12.9 El árbitro puede aplicar las siguientes sanciones: 
+12.9.1 
+una advertencia; 
+12.9.2 
+aumentar el tiempo restante del adversario; 
+12.9.3 
+reducir el tiempo restante del infractor; 
+12.9.4 aumentar la puntuación obtenida en la partida por el adversario, hasta el máximo 
+posible para dicha partida; 
+12.9.5 
+reducir la puntuación obtenida en la partida por el infractor; 
+12.9.6 declarar la partida perdida al infractor (el árbitro también decidirá la puntuación 
+del adversario) 
+12.9.7 
+una multa anunciada con antelación. 
+12.9.8 
+exclusión de una o más rondas, 
+12.9.9 
+la expulsión de la competición. 
+ 
+APÉNDICES 
+APÉNDICE A 
+Ajedrez Rápido 
+
+Leyes del Ajedrez 
+ 
+Página 20 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+A.1 Una partida de “Ajedrez Rápido” es aquella en la que todos los movimientos deben 
+completarse en un tiempo fijo de más de 10 minutos pero menos de 60 minutos por cada 
+jugador; o cuando el resultado de la suma del tiempo asignado más el incremento por 
+movimiento multiplicado por 60 es más de 10 pero menos de 60 minutos para cada jugador. 
+A.2 Los jugadores no están obligados a anotar los movimientos, pero no pierden sus derechos 
+a reclamar basándose en una planilla. El jugador puede, en cualquier momento, pedir al 
+árbitro que le proporcione una planilla para anotar los movimientos. 
+A.3 Se aplicarán las Reglas de Competición si: 
+A.3.1.1 Un árbitro supervisa un máximo de tres partidas y  
+A.3.1.2  Cada partida es apuntada por el árbitro o su asistente y, si es posible, por medios 
+electrónicos.  
+A.3.2   El jugador que está en juego puede solicitarle en cualquier momento al árbitro o 
+a su asistente que le muestre la planilla. Esto se podrá solicitar un máximo de 
+cinco veces durante la partida. Más peticiones se considerarán como una 
+distracción del oponente. 
+A.4 En caso contrario se aplicará lo siguiente:  
+A.4.1 
+Desde la posición inicial, una vez se hayan completado diez movimientos por cada 
+jugador,  
+A.4.1.1 
+No se hará ningún cambio en el ajuste del reloj, a menos que el 
+horario del evento se viera afectado negativamente.  
+A.4.1.2 
+no pueden hacerse reclamaciones relativas a una incorrecta 
+ubicación de las piezas, o la colocación del tablero. En caso de 
+ubicación incorrecta del rey, no se permitirá el enroque. En el caso 
+de la colocación incorrecta de una torre, el enroque con esta torre no 
+estará permitido. 
+A.4.2 
+Si el árbitro observa que se ha completado un movimiento ilegal, declarará la 
+partida perdida por el jugador, siempre y cuando el oponente no haya realizado su 
+próximo movimiento. Si el árbitro no interviene, el oponente tiene derecho a 
+reclamar la victoria, siempre y cuando no haya realizado su próximo movimiento. 
+Sin embargo, la partida es tablas si la posición es tal que el oponente no puede dar 
+jaque mate al rey del jugador mediante cualquier posible combinación de 
+movimientos legales. Si el oponente no reclama y el árbitro no interviene, el 
+movimiento ilegal permanecerá y la partida continuará. Una vez que el oponente 
+ha hecho su siguiente movimiento, un movimiento ilegal no se puede corregir a 
+menos que haya mutuo acuerdo entre los jugadores sin la intervención del árbitro.  
+A.4.3 Para reclamar una victoria por tiempo, el reclamante puede detener el reloj de 
+ajedrez y notificárselo al árbitro. Para que la reclamación prospere, el reclamante 
+debe tener todavía tiempo en su propio reloj, después de haber detenido el reloj de 
+ajedrez. Sin embargo, la partida es tablas si la posición es tal que el reclamante no 
+
+Leyes del Ajedrez 
+ 
+Página 21 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+puede dar jaque mate al rey del jugador mediante ninguna combinación posible de 
+movimientos legales. 
+A.4.4 Si el árbitro observa que ambos reyes están en jaque, o un peón en la fila más 
+alejada de su posición original, deberá esperar hasta que se complete el próximo 
+movimiento. Entonces, si la posición ilegal sigue sobre el tablero, se declarará la 
+partida tablas. 
+A.4.5 El árbitro también puede cantar una caída de bandera si lo observa. 
+A.5 
+Las bases del torneo deberán especificar si se aplicará el artículo A.3 o el artículo A.4 
+durante toda la competición. 
+ 
+B 
+Ajedrez Relámpago 
+B.1 Una partida de “Ajedrez Relámpago” es aquella en la que todos los movimientos deben 
+completarse en un tiempo fijo de 10 minutos o menos por cada jugador; o cuando el 
+resultado de la suma del tiempo asignado más el incremento por movimiento multiplicado 
+por 60 sea de 10 minutos o menos por cada jugador. 
+B.2 Las penalizaciones señaladas en los artículos 7 y 9 de las Reglas de Competición serán de 
+un minuto en lugar de dos minutos. 
+ 
+B.3.1 
+Las Reglas de Competición se aplicarán si: 
+ 
+  
+B.3.1.1  
+Cada árbitro supervisa una partida y,  
+B.3.1.2 
+ Cada partida es anotada por el árbitro o un asistente y, si es posible, 
+por medios electrónicos.  
+B.3.2    El jugador que está en juego puede solicitarle al árbitro o a su asistente que le 
+muestre la planilla de la partida. Esto se podrá solicitar un máximo de cinco veces 
+durante la partida. Más peticiones se considerarán como una distracción del 
+oponente. 
+B.4 De lo contrario la partida se regirá por las Leyes de Ajedrez Rápido como en los art. A.2 y 
+A.4.  
+B.5 Las bases del torneo deberán especificar si se aplicará el artículo B.3 o el artículo B.4 
+durante toda la competición. 
+ 
+C 
+Notación Algebraica 
+La FIDE solo reconoce para sus propios torneos y encuentros un sistema de anotación, el 
+Sistema Algebraico, y recomienda también el uso de este sistema uniforme de anotación 
+ajedrecística para literatura y revistas de ajedrez. Las planillas en las que se utilice un 
+sistema de anotación distinto al algebraico, podrán no ser utilizadas como prueba en casos 
+
+Leyes del Ajedrez 
+ 
+Página 22 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+en los que la planilla de un jugador se usa para tal fin. Un árbitro que observe que un jugador 
+utiliza un sistema de anotación distinto al algebraico, advertirá al jugador acerca de este 
+requisito. 
+Descripción del Sistema Algebraico 
+C.1 En esta descripción, pieza significa cualquier pieza excepto un peón. 
+C.2 Cada pieza es indicada por una abreviatura. Es la primera letra, en mayúscula, de su nombre. 
+Por ejemplo, en español: R = rey, D = dama, T = torre, A = alfil, C = caballo. 
+C.3 Para la abreviatura del nombre de las piezas, cada jugador es libre de usar la primera letra 
+del nombre utilizado normalmente en su país. Por ejemplo: F = fou (alfil en francés); L = 
+loper (alfil en holandés). En publicaciones impresas se recomienda el uso de figuras. 
+C.4 Los peones no son indicados por su primera letra, sino que se les reconoce por la ausencia 
+de la misma. Por ejemplo: los movimientos se escriben e5, d4, a5, no pe5, Pd4, pa5. 
+C.5 Las ocho columnas (de izquierda a derecha para el Blanco y de derecha a izquierda para el 
+Negro) son indicadas por las letras minúsculas: a, b, c, d, e, f, g y h, respectivamente. 
+C.6 Las ocho filas (de abajo arriba para el Blanco y de arriba abajo para el Negro) están 
+numeradas: 1, 2, 3, 4, 5, 6, 7 y 8, respectivamente. Consecuentemente, en la posición inicial 
+las piezas y peones blancos se colocan en la primera y segunda filas; las piezas y peones 
+negros en la octava y séptima filas. 
+C.7 Como consecuencia de las reglas anteriores, cada una de las 64 casillas está indicada 
+invariablemente por una sola combinación de una letra y un número. 
+ 
+C.8 Cada movimiento de una pieza se indica por (a) la abreviatura del nombre de la pieza en 
+cuestión y la casilla de llegada. No hay necesidad de un guion entre nombre de pieza y 
+casilla. Por ejemplo: Ae5, Cf3, Td1. 
+En el caso de peones, solo se indica la casilla de llegada. Por ejemplo: e5, d4, a5. 
+Se acepta una forma más larga que contiene la casilla de salida. Ejemplos: Ab2e5, Cg1f3, 
+Ta1d1, e7e5, d2d4, a6a5. 
+
+Leyes del Ajedrez 
+ 
+Página 23 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+C.9 Cuando una pieza realiza una captura, puede insertarse una x entre  
+ 
+C.9.1 
+ La abreviatura del nombre de la pieza en cuestión y  
+ 
+C.9.2 
+ La casilla de llegada. Por ejemplo: Axe5, Cxf3,Txd1. Véase también C10. 
+C.9.3 
+Cuando un peón realiza una captura, debe indicarse la columna de partida, luego 
+puede insertarse una x y finalmente la casilla de llegada. Por ejemplo: dxe5, gxf3, 
+axb5. En el caso de una captura al paso, se pone como casilla de llegada la que 
+finalmente ocupa el peón que realiza la captura, pudiéndose añadir la anotación 
+“a.p.”. Ejemplo: exd6 a.p.. 
+C.10 Si dos piezas idénticas pueden moverse a la misma casilla, la pieza que se mueve se indica 
+como sigue: 
+C.10.1 Si ambas piezas están en la misma fila:  
+C.10.1.1 
+ la abreviatura del nombre de la pieza,  
+C.10.1.2 
+ la columna de la casilla de salida y  
+C.10.1.3 
+ la casilla de llegada. 
+C.10.2 Si ambas piezas están en la misma columna:  
+C.10.2.1  
+la abreviatura del nombre de la pieza,  
+C.10.2.2 
+ la fila de la casilla de salida y  
+C.10.2.3 
+ la casilla de llegada. 
+C.10.3 Si las piezas están en filas y columnas distintas, es preferible el método 1. 
+Ejemplos: 
+C.10.3.1 Hay dos caballos, en las casillas g1 y e1, y uno de ellos mueve a la casilla f3: según el 
+caso, puede ser Cgf3 o Cef3. 
+C.10.3.2 Hay dos caballos, en las casillas g5 y g1, y uno de ellos mueve a la casilla f3: según el 
+caso, puede ser C5f3 o C1f3. 
+C.10.3.3 Hay dos caballos, en las casillas h2 y d4, y uno de ellos mueve a la casilla f3: según el 
+caso, puede ser Chf3 o Cdf3. 
+C.10.3.4 Si se da una captura en la casilla f3, se modifican los ejemplos anteriores pudiéndose 
+insertar una x: según el caso, puede ser (1) Cgxf3 o Cexf3, (2) C5xf3 o C1xf3, (3) Chxf3 
+o Cdxf3. 
+
+Leyes del Ajedrez 
+ 
+Página 24 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+C.11 En el caso de la promoción de un peón, se indica el movimiento efectivo del peón, seguido 
+inmediatamente por la abreviatura de la nueva pieza. Por ejemplo: d8D, exf8C, b1A, g1T. 
+C.12 La oferta de tablas se anotará como (=). 
+C.13 Abreviaturas: 
+0-0 
+enroque con la torre de h1 o de h8 (enroque por el flanco de rey o enroque corto). 
+0-0-0 
+enroque con la torre de a1 o de a8 (enroque por el flanco de dama o enroque 
+largo). 
+x 
+captura 
++ 
+jaque 
+++ o # 
+mate 
+a.p. 
+captura al paso 
+Las últimas cuatro son opcionales 
+Ejemplo de partida: 
+1.e4 e5  
+ 2.Cf3 Cf6 
+3.d4 exd4 
+4.e5 Ce4 
+5.Dxd4 d5 
+6.exd6 
+a.p. 
+Cxd6; 
+7.Ag5 Cc6 
+8.De3+ Ae7 
+9.Cbd2 0-0 
+10.0-0-0 Te8  11.Rb1(=). 
+O: 1. e4 e5 
+2. Cf3 Cf6 
+3. d4 ed4 
+4. e5 CCe4 
+5. Dd4 d5 
+6. ed6 Cd6 
+7. Ag5 
+Cc6 
+8. De3 Ae7 
+9 Cbd2 0-0 
+10. 0-0-0 Te8 11. Rb1 (=) 
+O: 1. e2e4 e7e5  
+2.Cg1f3 Cg8f6  
+3. d2d4 e5xd4  
+4. e4e5 Cf6e4 5. Dd1xd4 d7d5 
+6. e5xd6 a.p. Ce4xd6  7. Ac1g5 Cb8c6  
+8. Dd4d3 Af8e7  
+9. Cb1d2 0-0 10. 0-0-0 Tf8e8 
+11. Rb1 (=) 
+ 
+D 
+Reglas para partidas con ciegos y discapacitados visuales 
+D.1 
+La organización, previa consulta con el árbitro, tendrá la potestad de adaptar las siguientes 
+reglas conforme a las circunstancias concretas. En el ajedrez de competición, cuando uno 
+de los jugadores es discapacitado visual (legalmente ciego), cualquiera de los 
+contendientes puede exigir la utilización de dos tableros, utilizando el jugador 
+discapacitado visual un tablero especialmente adaptado y su adversario uno normal. El 
+tablero especial debe reunir los siguientes requisitos: 
+D.1.1 un tamaño de al menos 20 x 20 centímetros; 
+D.1.2 las casillas negras ligeramente elevadas; 
+D.1.3 un agujero de seguridad en cada casilla; 
+D.1.4 Los requisitos para las piezas son:  
+ 
+D.1.4.1 Cada pieza provista de una clavija que encaje en el agujero de seguridad; 
+D.1.4.2 Piezas de diseño Staunton, con las piezas negras especialmente identificadas. 
+
+Leyes del Ajedrez 
+ 
+Página 25 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+ 
+D.2 El juego se regirá por las siguientes reglas: 
+ 
+D.2.1 
+Los movimientos se anunciarán claramente, repetidos por el adversario y 
+ejecutados en su tablero. Cuando se promocione un peón, el jugador debe anunciar 
+qué pieza elige. Para hacer que tal anuncio sea lo más claro posible, se sugiere la 
+utilización de los siguientes nombres en lugar de las correspondientes letras del 
+sistema algebraico: 
+A - Anna 
+B - Bella 
+C - Cesar 
+D - David 
+E - Eva 
+F - Felix 
+G - Gustav 
+H - Hector 
+A menos que el árbitro decida otra cosa, las filas, del Blanco al Negro, serán 
+numeradas en alemán: 
+1 - 
+eins 
+2 - 
+zwei 
+3 - 
+drei 
+4 - 
+vier 
+5 - 
+fuenf 
+6 - 
+sechs 
+7 - 
+sieben 
+8 - 
+acht 
+El enroque se anuncia “Lange Rochade” (en alemán para el enroque largo) y “Kurze 
+Rochade” (en alemán para el enroque corto). 
+Las piezas llevan los nombres: Koenig (rey), Dame (dama), Turm (torre), Laeufer (alfil), 
+Springer (caballo) y Bauer (peón). 
+
+Leyes del Ajedrez 
+ 
+Página 26 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+D.2.2 
+En el tablero del jugador discapacitado visual, se considerará “tocada” una pieza 
+cuando haya sido sacada del agujero de seguridad. 
+D.2.3 
+Se considerará un movimiento “realizado” cuando: 
+D.2.3.1 
+en el caso de una captura, la pieza capturada ha sido retirada del 
+tablero del jugador al que le corresponde jugar; 
+D.2.3.2  
+una pieza ha sido colocada en un agujero de seguridad distinto; 
+D.2.3.3  
+el movimiento ha sido anunciado. 
+D.2.4 Solo entonces se pondrá en marcha el reloj del adversario. 
+D.2.5  En lo que se refiere a los puntos D.2.2 y D.2.3 (consideración de pieza tocada y 
+movimiento realizado), para el jugador no discapacitado serán válidas las reglas normales. 
+ 
+D.2.6.1 Se admitirá un reloj de ajedrez especialmente construido para discapacitados 
+visuales. Deben poder anunciar el tiempo y el número de movimientos al 
+jugador deficiente visual.  
+ 
+D.2.6.2 Como alternativa, se puede considerar un reloj analógico con las siguientes 
+características: 
+D.2.6.2.1 
+una esfera adaptada con manecillas reforzadas, con un punto 
+resaltado cada cinco minutos y con dos cada quince; 
+D.2.6.2.2 
+una bandera que pueda ser tocada fácilmente. Debería tenerse 
+cuidado para que la bandera esté emplazada de tal manera que 
+permita al jugador tocar la manecilla de los minutos durante los 
+últimos cinco minutos de cada hora. 
+D.2.7  El jugador discapacitado visual debe anotar la partida en Braille o escritura normal, o bien 
+grabar los movimientos mediante un aparato de grabación. 
+D.2.8  Un lapsus linguae en el anuncio de un movimiento debe ser corregido inmediatamente, 
+antes de poner en marcha el reloj del adversario. 
+D.2.9  Si en el trascurso de una partida aparecieran posiciones diferentes en los dos tableros, 
+deben ser corregidas con la ayuda de un árbitro y consultando ambas planillas. Si las dos 
+planillas coinciden, el jugador que ha anotado bien el movimiento pero la ha ejecutado mal 
+debe ajustar su posición a la que corresponde con lo escrito. Cuando las anotaciones en las 
+planillas difieren, se retrocederán los movimientos hasta el punto en que ambas estén de 
+acuerdo y, consecuentemente, el árbitro ajustará los relojes. 
+D.2.10 El jugador discapacitado visual tendrá derecho a valerse de un asistente, quien se encargará 
+de alguna o de todas las funciones siguientes: 
+ 
+D.2.10.1 
+Realizar el movimiento de cualquiera de los jugadores en el tablero del 
+adversario. 
+
+Leyes del Ajedrez 
+ 
+Página 27 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+ 
+D.2.10.2 
+Anunciar los movimientos de ambos jugadores. 
+D.2.10.3 
+Encargarse de anotar la partida del discapacitado visual y poner en marcha 
+el reloj del adversario (teniendo en cuenta la regla 3.c). 
+D.2.10.4 
+Informar al discapacitado visual, solo a requerimiento de este, del número 
+de movimientos completados y del tiempo empleado por ambos jugadores. 
+D.2.10.5 
+Reclamar la partida en caso de que se haya excedido el límite de tiempo e 
+informar al árbitro cuando el jugador no discapacitado haya tocado una de 
+sus piezas. 
+D.2.10.6 
+Llevar a cabo las formalidades necesarias en caso de que se aplace la 
+partida.  
+ 
+D.2.11  Si el jugador discapacitado visual no se vale de un asistente, su adversario puede hacer uso 
+de uno que se encargue de las labores mencionadas en los puntos  D.2.10.1 y D.2.10.2. Se 
+debe usar un asistente en el caso de un jugador discapacitado visual emparejado con un 
+jugador con discapacidad auditiva. 
+ 
+DIRECTRICES I  Aplazamiento de partidas 
+I.1.1 
+Si una partida no ha terminado al final del tiempo establecido para la sesión, el árbitro 
+exigirá al jugador que esté en juego que “selle” su movimiento. El jugador debe anotar su 
+movimiento de forma clara e inequívoca en su planilla, poner su planilla y la de su 
+adversario en un sobre, cerrar el sobre y, solo entonces, parara el reloj de ajedrez. Hasta 
+que no haya parado el reloj de ajedrez, el jugador mantiene el derecho a cambiar su 
+movimiento secreto. Si tras haber sido advertido por el árbitro para que selle su 
+movimiento, el jugador realiza un movimiento sobre el tablero, debe anotar dicho 
+movimiento en su planilla como su movimiento secreto. 
+I.1.2 
+Un jugador que, estando en juego, aplaza la partida antes del fin de la sesión de juego, se 
+considerará que ha realizado el movimiento secreto a la hora establecida para el fin de la 
+sesión, indicándose así su tiempo restante. 
+I.2  
+En el sobre se escribirán los siguientes datos: 
+ 
+ 
+I.2.1 
+los nombres de los jugadores; 
+ 
+ 
+I.2.2 
+la posición inmediatamente anterior al movimiento secreto; 
+I.2.3 
+el tiempo empleado por cada jugador; 
+I.2.4 
+el nombre del jugador que ha realizado el movimiento secreto; 
+I.2.5 
+el número del movimiento secreto; 
+I.2.6 
+la oferta de tablas, si la propuesta sigue vigente; 
+I.2.7 
+la fecha, hora y lugar de reanudación de la partida. 
+ 
+I.3 
+ El árbitro comprobará la exactitud de la información escrita en el sobre y es el responsable 
+de su custodia. 
+
+Leyes del Ajedrez 
+ 
+Página 28 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+I.4 
+ Si un jugador propone tablas después de que su adversario haya sellado su movimiento, la 
+oferta permanece válida hasta que el adversario la haya aceptado o rechazado, como en el 
+artículo 9.1. 
+I.5 
+ Antes de reanudarse la partida, se pondrá sobre el tablero la posición inmediatamente 
+anterior al movimiento secreto y se indicará en los relojes el tiempo empleado por cada 
+jugador en el momento del aplazamiento. 
+I.6 
+ Si antes de la reanudación de la partida se acuerdan tablas o uno de los jugadores notifica 
+al árbitro que abandona, finaliza la partida. 
+I.7 
+ El sobre se abrirá solo cuando esté presente el jugador que debe responder al movimiento 
+secreto. 
+I.8 
+ Excepto en los casos mencionados en los artículos 5, 6.9, 9.6 y 9.7, pierde la partida un 
+jugador cuya anotación del movimiento secreto: 
+ 
+I.8.1 
+sea ambigua; o 
+I.8.2 
+esté escrita de tal forma que sea imposible establecer su significado real; o bien 
+I.8.3 
+resulte ser un movimiento ilegal. 
+ 
+I.9  
+Si a la hora acordada para la reanudación: 
+I.9.1 
+Está presente el jugador que tiene que responder al movimiento secreto, se abre el sobre, 
+se ejecuta el movimiento secreto sobre el tablero y se pone en marcha su reloj. 
+I.9.2 
+No está presente el jugador que tiene que responder al movimiento secreto, se 
+pondrá en marcha su reloj. Al llegar, el jugador puede detener su reloj y requerir 
+la presencia del árbitro. Es entonces cuando se abre el sobre y se ejecuta el 
+movimiento secreto sobre el tablero, volviéndose a poner en marcha su reloj. 
+I.9.3 
+No está presente el jugador que selló su movimiento, su adversario tiene derecho a 
+anotar su respuesta en la planilla, sellar su movimiento en un nuevo sobre, detener 
+su reloj y poner en marcha el del jugador ausente, en lugar de ejecutar su 
+movimiento en la forma normal. Si así fuere, el sobre se lo pasará al árbitro para 
+su custodia y se abrirá a la llegada del jugador ausente. 
+ 
+I.10 
+Cualquier jugador que se presente ante el tablero después del tiempo de incomparecencia, 
+perderá la partida a menos que el árbitro decida otra cosa. Sin embargo, si el movimiento 
+secreto acaba la partida, este resultado prevalecerá. 
+I.11 
+Si las bases de un torneo especifican que el tiempo de incomparecencia no es cero, se 
+aplicará lo siguiente: si ninguno de los jugadores está presente inicialmente, el jugador que 
+tiene que responder al movimiento sellado pierde todo el tiempo que trascurre hasta que 
+llega, a menos que las bases del torneo especifiquen o el árbitro decida otra cosa. 
+
+Leyes del Ajedrez 
+ 
+Página 29 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+ 
+I.12.1 Si se pierde el sobre que contiene el movimiento secreto, la partida continuará a 
+partir de la posición aplazada y con los tiempos anotados en el momento del 
+aplazamiento. Si no se pudiera restablecer el tiempo consumido por cada jugador, 
+el árbitro ajustará los relojes. El jugador que hizo el movimiento secreto, ejecutará 
+sobre el tablero el movimiento que declare ser el que selló. 
+I.12.2 Si es imposible restablecer la posición, se anulará la partida y deberá jugarse una 
+nueva. 
+ 
+I.13 
+Si, en la reanudación de la partida y antes de hacer su primer movimiento, uno de los 
+jugadores muestra que el tiempo consumido ha sido puesto incorrectamente en alguno de 
+los relojes, el error debe ser corregido. Si no se prueba el error en ese momento, la partida 
+continúa sin hacer correcciones, salvo que el árbitro decida otra cosa. 
+I.14 
+La duración de cada sesión de reanudación estará controlada por el reloj del árbitro. La 
+hora de comienzo será anunciada con antelación. 
+ 
+DIRECTRICES II Reglas de Ajedrez960 
+II.1 
+Antes del comienzo de una partida de Ajedrez960 se sortea la posición inicial de las piezas 
+según unas reglas concretas. Después se juega la partida de la misma forma que en el 
+ajedrez normal. En concreto, las piezas y peones se mueven normalmente y el objetivo de 
+cada jugador es dar jaque mate al rey del oponente. 
+II.2 
+Requerimientos de la posición inicial 
+La posición inicial en Ajedrez960 debe reunir ciertas reglas. Los peones blancos se ponen 
+en la segunda fila como en el ajedrez normal. Todas las piezas blancas restantes se sitúan 
+al azar en la primera línea, pero con las restricciones siguientes: 
+II.2.1 El rey se sitúa en algún lugar entre las dos torres. 
+II.2.2 Los alfiles se ponen en casillas de colores distintos. 
+II.2.3 Las piezas negras se sitúan simétricamente a las piezas blancas. 
+ 
+La posición inicial se puede generar antes de la partida por medio de un programa 
+informático o usando dados, monedas, cartas, etc. 
+II.3 
+El enroque en Ajedrez960 
+II.3.1 El Ajedrez960 permite que cada jugador se enroque una vez por partida, en un único 
+movimiento que podrá incluir al rey y la torre. Sin embargo, hay que hacer unas pocas 
+precisiones sobre las reglas del enroque del ajedrez normal, pues estas presuponen una 
+localización del rey y la torre que no es aplicable en Ajedrez960. 
+II.3.2 Cómo enrocarse. En Ajedrez960 la maniobra del enroque se realiza siguiendo uno 
+de estos métodos, según la posición inicial del rey y la torre: 
+
+Leyes del Ajedrez 
+ 
+Página 30 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+II.3.2.1 
+ Enroque por doble movimiento: se realiza un movimiento con el rey 
+y otro con la torre. 
+II.3.2.2 
+ Enroque por trasposición: se trasponen las posiciones del rey y la 
+torre. 
+II.3.2.3  
+Enroque por movimiento de rey: se mueve solo el rey. 
+II.3.2.4  
+Enroque por movimiento de torre: se mueve solo la torre. 
+II.3.2.5  
+Recomendaciones 
+II.3.2.5.1 
+Cuando el enroque lo realice un jugador humano en 
+un tablero físico, se recomienda que mueva el rey 
+fuera de la superficie de juego junto a la que ha de 
+ser su posición final, mueva la torre de su casilla de 
+origen a la de destino, y sitúe entonces el rey en su 
+casilla de destino. 
+II.3.2.5.2 
+Después de enrocarse, las posiciones finales del rey 
+y la torre deben ser exactamente las mismas que en 
+el ajedrez normal. 
+II.2.3.6  
+Aclaración: 
+De esta forma, tras enrocarse por el flanco c (anotado como 0-0-0 y conocido como 
+enroque largo en el ajedrez ortodoxo), el rey se sitúa sobre la casilla c (c1 para las 
+blancas y c8 para las negras) y la torre sobre la d (d1 para las blancas y d8 para las 
+negras). Tras enrocarse por el flanco g (anotado como 0-0 y conocido como 
+enroque corto en el ajedrez ortodoxo), el rey se sitúa sobre la casilla g (g1 para las 
+blancas y g8 para las negras) y la torre sobre la f (f1 para las blancas y f8 para las 
+negras). 
+II.2.3.7  
+Notas 
+II.2.3.7.1 
+Para evitar cualquier malentendido, podría ser útil 
+declarar “me voy a enrocar” antes de enrocarse. 
+II.2.3.7.2 
+En algunas posiciones iniciales es posible que no se 
+mueva el rey o la torre (pero no ambos). 
+II.2.3.7.3 
+En algunas posiciones iniciales es posible que el 
+enroque tenga lugar en el primer movimiento. 
+II.2.3.7.4 
+Todas las casillas situadas entre la casilla de origen 
+del rey y la de destino (incluyendo esta última), y 
+todas las casillas situadas entre la casilla de origen de 
+la torre y la de destino (incluyendo esta última), 
+
+Leyes del Ajedrez 
+ 
+Página 31 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+deberán estar vacías, a excepción de la del rey y la de 
+la torre con la que se enroque. 
+II.2.3.7.5 
+En algunas posiciones iniciales, determinadas 
+casillas podrán permanecer ocupadas durante el 
+enroque, aunque en el ajedrez normal deberían estar 
+vacías. Por ejemplo, tras enrocarse por el flanco c (O-
+O-O 0-0-0), es posible que a, b y/o e permanezcan 
+ocupadas, y tras enrocarse por el flanco g (O-O 0-0) 
+es posible que e y/o h permanezcan ocupadas. 
+ 
+DIRECTRICES III Partidas sin incremento incluido Final a caída de bandera 
+ 
+III.1 
+Un “final a caída de bandera” es la última fase de una partida, cuando todos los 
+movimientos (restantes) deben hacerse en un tiempo limitado. 
+III.2.1  Las directrices que se indican a continuación sobre el último período de la 
+partida, incluidos los finales a caída de bandera, solo se utilizarán en un evento 
+si su uso se ha anunciado de antemano. 
+III.2.2 Estas directrices solo se aplicarán a las partidas estándar y partidas de ajedrez 
+Rápido sin incremento y no a partidas Blitz.  
+III.3.1 Si han caído ambas banderas y es imposible establecer cuál de ellas lo hizo en  
+primer lugar, entonces  
+III.3.1.1 
+continuará la partida si esto ocurre en cualquier periodo excepto el 
+último.  
+III.3.1.2 
+la partida será declarada tablas si esto ocurre en el último periodo, 
+en el que se han de completar todos los movimientos restantes.  
+III.4 
+Si el jugador que está en juego tiene menos de dos minutos en su reloj, puede solicitar un 
+incremento adicional de 5 segundos por movimiento para ambos jugadores. Esta 
+solicitud constituye también una oferta de tablas. Si esta se rechaza, y el árbitro está de 
+acuerdo con la solicitud, los relojes se ajustarán con el tiempo extra, al oponente se le 
+concederán dos minutos extra y el juego continuará.  
+III.5 
+ Si el artículo III.4 no es aplicable y el jugador que está en juego tiene menos de dos minutos 
+en su reloj, puede reclamar tablas antes de que caiga su bandera. Llamará al árbitro y puede 
+detener el reloj (véase el artículo 6.12.1). Puede reclamar sobre la base de que su adversario 
+no puede ganar por medios normales, y/o que su oponente no hace ningún esfuerzo para 
+ganar por medios normales 
+
+Leyes del Ajedrez 
+ 
+Página 32 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+III.5.1 Si el árbitro está de acuerdo en que el adversario no está haciendo ningún 
+esfuerzo para ganar la partida por procedimientos normales, o que no es posible 
+ganar por procedimientos normales, declarará la partida tablas. En otro caso 
+aplazará su decisión o rechazará la reclamación. 
+III.5.2 Si el árbitro aplaza su decisión, puede otorgar al adversario dos minutos de tiempo 
+extra de reflexión y la partida continuará, si ello fuera posible, en presencia de un 
+árbitro. El árbitro decretará el resultado final posteriormente durante la partida o 
+tan pronto como sea posible después de que una bandera haya caído. Declarará la 
+partida tablas si está de acuerdo en que la posición final no puede ser ganada por 
+medios normales, o que el adversario no estaba haciendo lo suficiente para ganar 
+por medios normales. 
+III.5.3 Si el árbitro ha rechazado la reclamación, se le concederán dos minutos de tiempo 
+extra de reflexión al adversario. 
+III.6 
+Lo que sigue es aplicable cuando la competición no está supervisada por ningún árbitro: 
+ 
+III.6.1 Un jugador puede reclamar tablas cuando le queden menos de dos minutos en su 
+reloj y antes de que caiga su bandera. Esto concluye la partida. Puede reclamar en 
+base a que: 
+III.6.1.1 
+su adversario no puede ganar por procedimientos normales, y/o 
+III.6.1.2 
+su adversario no ha estado haciendo ningún esfuerzo para ganar por 
+procedimientos normales. 
+En III.6.1.1  
+el jugador debe anotar la posición final y su adversario verificarla. 
+En III.6.1.2  el jugador debe anotar la posición final y presentar como prueba una 
+planilla actualizada. El adversario verificará tanto la planilla como 
+la posición final. 
+III.6.2 La reclamación será remitida a un árbitro designado. 
+ 
+GLOSARIO DE TÉRMINOS DE LAS LEYES DEL AJEDREZ 
+ 
+El número después del término se refiere a la primera vez que aparece en las Leyes. 
+Abandono: 5.1.2. Cuando un jugador se da por vencido, en lugar de jugar hasta recibir mate.  
+Ahogado: 5.2.1 Si el jugador no tiene ningún movimiento legal y su rey no está en jaque.  
+Ajedrez 960: Una variante del ajedrez donde las piezas de la fila trasera se configuran en una de 
+las 960 posiciones distintas posibles  
+Ajedrez Rápido: A. Una partida donde el tiempo de reflexión de cada jugador es de más de 10 
+minutos, pero menos de 60.  
+
+Leyes del Ajedrez 
+ 
+Página 33 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+Ajustar: Ver Compongo.  
+Al paso: 3.7.4.2. Ver este artículo para obtener una explicación. En la notación, a.p. 
+Analizar: 11.3. Cuando uno o más jugadores hacen movimientos en un tablero para tratar de 
+determinar cuál es la mejor continuación.  
+Apelar: 11.10. Normalmente, un jugador tiene el derecho de apelar contra la decisión del árbitro 
+o del organizador.  
+Aplazamiento: 8.1. En lugar de jugar la partida en una sesión, se detiene temporalmente y 
+continúa posteriormente. 
+Árbitro: Prólogo. La(s) persona(s) responsable(s) de asegurar que se cumplan las reglas de una 
+competición.  
+Área contigua: 12.8 sala adjunta a la sala de juego, que no es parte del área de juego. Por ejemplo, 
+la zona reservada para los espectadores.  
+Área/zona de juego: 11.2. El lugar donde se juegan las partidas de una competición.  
+Asistente: 8.1. Una persona que puede ayudar al buen funcionamiento de la competición de varias 
+formas.  
+Ataque: 3.1. Una pieza se dice que ataca a una pieza del oponente si la pieza puede efectuar una 
+captura en esa casilla.  
+Bandera: 6.1. El dispositivo que muestra cuando un período de tiempo ha expirado.  
+Bases del torneo: 6.7.1 En varios apartados de las Leyes hay opciones. Las bases del torneo deben 
+indicar qué opciones se eligen. 
+Blanco: 2.1.1. Hay 16 piezas de color claro y 32 casillas denominadas blancas. O 2. En 
+mayúsculas, hace también referencia al jugador de las piezas blancas.  
+Blitz: Apéndice B una partida donde el tiempo de cada jugador es 10 minutos o menos. 
+Caída de bandera: 6.1. Cuando el tiempo asignado a un jugador ha expirado.  
+Capturar: 3.1. Cuando una pieza se mueve de su casilla a una casilla ocupada por una pieza del 
+oponente, esta se retira del tablero. Ver también 3.7.4.1 y 3.7.4.2. En la anotación x.  
+Casilla de promoción: 3.7.5.1 La casilla que alcanza un peón en la octava fila.  
+Cigarrillo electrónico: dispositivo que contiene un líquido que se vaporiza e inhala por vía oral para 
+simular el acto de fumar tabaco. 
+Columna: 2.4. Una hilera vertical de ocho casillas del tablero.  
+Componer (“Compongo”) 4.2. Avisar de que el jugador desea ajustar una pieza, pero no 
+necesariamente con intención de moverla.  
+Contador de movimientos: 6.10.2. Un dispositivo del reloj que puede utilizarse para registrar el 
+número de veces que el reloj ha sido presionado por cada jugador.  
+
+Leyes del Ajedrez 
+ 
+Página 34 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+Control de tiempo: 1. La norma sobre el tiempo que tiene el jugador. Por ejemplo, 40 
+movimientos en 90 minutos, todos los movimientos en 30 minutos, más 30 segundos de forma 
+acumulativa desde el movimiento 1. O 2. De un jugador se dice que ‘ha llegado al control de 
+tiempo’, si, por ejemplo, ha completado los 40 movimientos en menos de 90 minutos.  
+Dama: Un peón en dama, significa promocionar un peón a dama 
+Deficiencia: Ver Discapacidad.  
+Diagonal: 2.4. Línea recta de casillas del mismo color que va desde un borde del tablero hasta 
+otro adyacente.  
+Discapacidad: 6.2.6. Condición, como por ejemplo invalidez física o mental, que se traduce en 
+pérdida parcial o completa de la capacidad de una persona para realizar ciertas actividades de 
+ajedrez.  
+Discreción del árbitro: Hay aproximadamente 39 casos en las Leyes, donde el árbitro debe usar 
+su buen juicio.  
+Enroque: 3.8.2. Un movimiento del rey y la torre. Vea el artículo. En anotación 0-0 enroque en 
+el flanco de rey, 0-0-0 enroque en el flanco de dama.  
+Espectadores: 11.4. Las personas que no sean árbitros o jugadores que están viendo las partidas. 
+Esto incluye a los jugadores después de que sus partidas han terminado. 
+Explicación: 11.9. El jugador tiene derecho a obtener una explicación de las Leyes.  
+Fila: 2.4. Una hilera horizontal de ocho casillas del tablero.  
+Final a caída de bandera: G.1. La última parte de una partida en la que el jugador debe completar 
+un número indeterminado de movimientos en un tiempo limitado.  
+Flanco de dama: 3.8.1 La mitad vertical del tablero en el que la dama se encuentra en el inicio 
+de la partida.  
+Flanco de rey: 3.8ª. La mitad vertical del tablero en el que el rey se encuentra al comienzo de la 
+partida.  
+Incremento: 6.1. Una cantidad de tiempo (de 2 a 60 segundos) que se añade desde el principio 
+antes de cada movimiento del jugador. Esto puede ser en tanto en modo de retardo o en el modo 
+acumulativo.  
+Intercambio: 3.7.5.3 Cuando un peón promociona. O 2. Cuando un jugador captura una pieza del 
+mismo valor que la suya y esta pieza es recapturada. O 3. Cuando un jugador ha perdido una torre 
+y el otro ha perdido un alfil o caballo.  
+Intervenir: 12.7. Implicarse en algo que está sucediendo y que puede afectar al resultado. 
+Invalidez: Ver Discapacidad.  
+Jaque mate: 1.2. Cuando se ataca al rey y no se puede impedir la amenaza. En la notación ++ o 
+#.  
+Jaque: 3.9. Cuando un rey es atacado por una o más de las piezas del oponente. En la notación +.  
+
+Leyes del Ajedrez 
+ 
+Página 35 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+Juego de piezas de ajedrez: Las 32 piezas sobre el tablero de ajedrez.  
+Juego limpio: 12.2.1 Hacer justicia cuando el árbitro determina que las Leyes son inadecuadas o 
+incompletas.  
+Juego sobre el tablero: Introducción. Las Leyes solo cubren este tipo de ajedrez, no internet, ni 
+correspondencia, etc.  
+Movimiento ilegal: 3.10.1 Una posición o movimiento que es imposible debido a las Leyes del 
+Ajedrez.  
+Jugada secreta: Apéndice E. Cuando se aplaza una partida y se sella su siguiente movimiento en 
+un sobre.  
+Jugada/Jugar: 1.1. 1. 40 jugadas en 90 minutos, se refiere a 40 movimientos por cada jugador. 
+O 2. Estar en juego se refiere al derecho del jugador para hacer la próxima jugada. O 3. Mejor 
+jugada del Blanco se refiere a la única jugada del Blanco.  
+Local de juego: 11.2. El único lugar al que los jugadores tienen acceso durante la partida.  
+Mate: Abreviatura de jaque mate.  
+Medios normales/Procedimientos normales: G.5 esforzarse para tratar de ganar, o bien, tener 
+una posición tal que existe la posibilidad real de ganar la partida de forma diferente que por caída 
+de bandera.  
+Modo acumulativo (Fischer): Cuando un jugador recibe una cantidad adicional de tiempo (a 
+menudo 30 segundos) antes de cada movimiento.  
+Modo Bronstein: 6.3.2. Ver Modo de demora.  
+Modo de Fischer: Ver el modo acumulativo.  
+Modo de retardo (Bronstein): 6.3.2 Ambos jugadores reciben un asignado “tiempo principal de 
+reflexión”. Cada jugador también recibe un “tiempo extra fijo” con cada movimiento. La cuenta 
+atrás del tiempo principal de reflexión solo comienza después de que haya trascurrido el tiempo 
+extra fijo. Siempre y cuando el jugador presione su reloj antes de consumir el tiempo extra fijo, el 
+tiempo principal de reflexión no cambia, independientemente de la proporción de tiempo extra 
+fijo utilizado.  
+Monitor: 6.13. Una pantalla electrónica con la posición del tablero.  
+Movimiento completado: 6.2.1 Cuando un jugador ha realizado su movimiento y luego se 
+presiona su reloj.  
+Movimiento legal: Véase el artículo 3.10.1  
+Negro: 2.2.1. Hay 16 piezas de color oscuro y 32 casillas de color negro.  2. Con mayúsculas, 
+esto también hace referencia al jugador de las piezas negras.  
+Notación algebraica: 8.1.  Registro de los movimientos utilizando a-h y 1-8 en el tablero de 8x8. 
+Oferta de tablas: 9.1.2. Cuando un jugador ofrece tablas al oponente. Esto se indica en la planilla 
+con el símbolo (=).  
+
+Leyes del Ajedrez 
+ 
+Página 36 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+Organizador. 8.3. La persona responsable del lugar de celebración, fechas, premios, invitaciones, 
+formato de la competición, etc.  
+Pantalla: 6.13. Una pantalla electrónica con la posición en el tablero.  
+Partida estándar: G3. Cuando el tiempo para cada jugador es al menos de 60 minutos.  
+Período de tiempo: 8.6 Una parte del juego donde los jugadores deben completar una serie de 
+movimientos o todos los movimientos en un tiempo determinado.  
+Pieza menor.  Alfil o caballo.  
+Pieza tocada: 4.3. Si un jugador toca una pieza con la intención de moverla, está obligado a 
+moverla.  
+Pieza: 2. 1. Una de las 32 figuras sobre el tablero. O 2. Una dama, torre, alfil o caballo.  
+Planilla: 8.1. Una hoja de papel con espacios para escribir los movimientos. También puede ser 
+electrónica.  
+Posición muerta: 5.2.2. Cuando ninguno de los jugadores puede dar mate al rey del oponente con 
+cualquier serie de movimientos legales  
+Promoción: 3.7.5.3 Cuando un peón alcanza la octava fila y se sustituye por una reina, torre, alfil 
+o caballo del mismo color.  
+Pulsar el reloj: 6.2.1 El acto de accionar el botón o palanca en un reloj de ajedrez para que se 
+detenga el reloj del jugador y comience a funcionar el de su oponente.  
+Puntos: 10. Normalmente, un jugador anota 1 punto por una victoria, ½ punto por empate, 0 por 
+una derrota. Una alternativa es 3 por victoria, 1 por empate, 0 por derrota. 
+Realizado: 1.1. Un movimiento se dice que ha sido realizado cuando la pieza ha sido movida a 
+su nueva casilla, la mano ha dejado la pieza y la pieza capturada, si la hay, se ha retirado del 
+tablero.  
+Reclamar: 6.8. El jugador puede reclamar al árbitro en diversas circunstancias.  
+Regla de los 50 movimientos: 5.3.2 Un jugador puede reclamar tablas si los últimos 50 
+movimientos se han completado por parte de cada jugador sin movimientos de peón y sin capturas.  
+Regla de los 75 movimientos: 9.6.2 La partida es tablas si los últimos 75 movimientos se han 
+completado por parte de cada jugador sin movimientos de peón y sin capturas.  
+Reloj de ajedrez: 6.1. Un reloj con dos indicadores de tiempo conectados entre sí.  
+Reloj: 6.1. Uno de los dos indicadores de tiempo.  
+Renuncia: 4.8. 1. Perder el derecho de hacer una reclamación o movimiento. O 2. Perder una 
+partida debido a una infracción de las Leyes. 
+Repetición: 5.3.1.1. Un jugador puede reclamar tablas si se produce la misma posición tres veces. 
+2. La partida es tablas si se produce la misma posición en cinco ocasiones.  
+Resultados: 8.7. Por lo general, el resultado es 1-0, 0-1 o ½-½. En circunstancias excepcionales, 
+ambos jugadores pueden perder (artículo 11.10), o que uno puntúe ½ y el otro 0 (artículo 12.3b). 
+
+Leyes del Ajedrez 
+ 
+Página 37 
+ 
+FIDE 
+Julio – 2017 
+ 
+ 
+Para las partidas sin jugar las puntuaciones se indican con +/- (Blanco gana por incomparecencia), 
+-/+ (Negro gana por incomparecencia), -/- (Ambos jugadores pierden por incomparecencia).  
+Salas de descanso: 11.2. Aseos, también la habitación de descanso en el Campeonato Mundial, 
+donde los jugadores pueden relajarse.  
+Sanciones: 12.3. El árbitro puede aplicar sanciones que se enumeran en el art. 12.9 por orden 
+ascendente de gravedad.  
+Supervisar: 12.2.54 Inspeccionar o controlar.  
+Tablas: 5.2. Cuando la partida acaba sin victoria de ninguno de los jugadores.  
+Tablero de ajedrez: 1.1. Un cuadrado de 8x8 como en 2.1.  
+Tablero de demostración: 6.13. Pantalla que indica la posición del tablero donde las piezas se 
+mueven manualmente.  
+Tablero: 2.4. Tablero de ajedrez.  
+Teléfono celular: Ver Teléfono móvil.  
+Teléfono móvil: 11.3.2 Teléfono celular.  
+Tiempo de incomparecencia: 6.7 El tiempo especificado en que un jugador puede llegar tarde 
+sin perder por incomparecencia.  
+Tolerancia cero: 6.7.1. Cuando un jugador tiene que llegar al tablero antes del inicio de la sesión.  
+Vertical: 2.4. La octava fila es considerada a menudo como la zona más alta de un tablero de 
+ajedrez. Así, cada columna se conoce como “vertical”.
